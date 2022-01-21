@@ -1,3 +1,5 @@
-# Simple Starter
+# gen-34
 
-Simple JS build starter for simple, client-only demos.
+Glitchy gradient shapes. Happy accident.
+
+[Live Demo](http://fforw.de//static/demo/gen-34)
